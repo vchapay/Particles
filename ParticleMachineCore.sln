@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleMachineCore", "ParticleMachineCore\ParticleMachineCore.csproj", "{694F8C36-8DA0-4F04-A505-A3D97B37A00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleMachineWF", "ParticleMachineWF\ParticleMachineWF.csproj", "{B1B2EE24-807C-413E-8000-63B2B12393EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694F8C36-8DA0-4F04-A505-A3D97B37A00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694F8C36-8DA0-4F04-A505-A3D97B37A00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694F8C36-8DA0-4F04-A505-A3D97B37A00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694F8C36-8DA0-4F04-A505-A3D97B37A00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B2EE24-807C-413E-8000-63B2B12393EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B2EE24-807C-413E-8000-63B2B12393EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B2EE24-807C-413E-8000-63B2B12393EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B2EE24-807C-413E-8000-63B2B12393EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F875A906-3D04-46AE-8918-579675D0A272}
+	EndGlobalSection
+EndGlobal
